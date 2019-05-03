@@ -23,7 +23,7 @@
 
     foreach ($uri as $routeKey => $routeValue) {
         if (preg_match("#^$routeKey$#", $route)) {
-            include $routeValue;
+            include "pages$routeValue;
             $matched = true;
         }
     }
