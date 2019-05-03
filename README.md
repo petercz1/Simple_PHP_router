@@ -3,7 +3,3 @@
 
 About as simple as possible and still be useful
 
-
-new repo for 
-new repo for 
-new repo for Simple_PHP_router
