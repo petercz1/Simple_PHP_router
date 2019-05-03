@@ -5,4 +5,4 @@ About as simple as possible and still be useful
 
 ## how does it work
 
-It translates www.yoursite.com/gohere into 'gotothispage.php
+It translates www.yoursite.com/gohere into 'gotothispage.php'
