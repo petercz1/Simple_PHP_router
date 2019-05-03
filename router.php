@@ -30,6 +30,6 @@
 
     // if no match, send 404
     if (!$matched) {
-        include 'fourohfour.html';
+        include 'pages/fourohfour.html';
     }
 })();
