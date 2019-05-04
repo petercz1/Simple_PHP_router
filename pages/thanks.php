@@ -6,10 +6,14 @@
 	</head>
 
 	<body>
-		<h1>home</h1>
+		<h1>Thanks!</h1>
 
-		<p>This is home.html</p>
+		<p>You submitted this info:<br/>
+			<?php
+			echo(print_r($_POST));
+			?>
+		</p>
 
 	</body>
-	
+
 </html>

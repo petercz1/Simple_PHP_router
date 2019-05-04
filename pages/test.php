@@ -6,9 +6,13 @@
 	</head>
 
 	<body>
-		<h1>home</h1>
+		<h1>Contact stuff</h1>
 
-		<p>This is home.html</p>
+		<p>This is test.php</p>
+
+		<?php
+			echo 'running php stuff here';
+		?>
 
 	</body>
 	

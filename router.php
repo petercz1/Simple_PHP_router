@@ -8,7 +8,8 @@
     $uri = [
     '/'=>'home.html',
     '/about'=>'about.html',
-    '/contact'=>'newperson.php'
+    '/contact'=>'test.php',
+    '/enrol'=> 'register.php'
     ];
 
     // split uri from any params - php puts them in the $_GET array
