@@ -8,7 +8,6 @@
     $uri = [
     '/'=>'home.html',
     '/about'=>'about.html',
-    '/contact'=>'test.php',
     '/enrol'=> 'register.php'
     ];
 
