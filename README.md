@@ -13,7 +13,7 @@ It translates www.yoursite.com/gohere into 'pages/gotothispage.php'
 * copy file to a directory of your choice
 * open the directory with a terminal/console/cli
 * start with `php -S localhost:4567`
-* use a broswer to navigate to `localhost:4567`
+* use a browser to navigate to `localhost:4567`
 * try the routes in lines 9 - 11 of router.php:
 	* localhost:4568
 	* localhost:4568/about
