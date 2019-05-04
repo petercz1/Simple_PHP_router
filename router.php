@@ -9,7 +9,7 @@
     '/'=>'home.html',
     '/about'=>'about.html',
     '/enrol'=> 'register.php',
-    '/thanks'=>''
+    '/thanks'=>'thanks.php'
     ];
 
     // split uri from any params - php puts them in the $_GET array
