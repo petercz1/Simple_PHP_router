@@ -17,7 +17,7 @@ It translates www.yoursite.com/gohere into 'pages/gotothispage.php'
 * try the routes in lines 8 - 10 of router.php:
 	* localhost:4568
 	* localhost:4568/about
-	* localhost:4568/contact
+	* localhost:4568/enrol
 
 ## structure
 
@@ -43,4 +43,3 @@ looks like this:
 ├── README.md
 └── router.php
  ```
- 
