@@ -8,5 +8,12 @@
 </head>
 <body>
 	<h1>New person stuff</h1>
+
+	<p>This is newperson.php</p>
+
+	<?php
+		echo 'running php stuff here';
+	?>
+
 </body>
 </html>
