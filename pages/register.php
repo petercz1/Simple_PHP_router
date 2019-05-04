@@ -7,12 +7,12 @@
 
 	<body>
 
-		<form action="pages/thanks.php" method="post">
+		<form action="/thanks" method="post">
 
 			Name: <input type="text" name="name"><br>
 			E-mail: <input type="text" name="email"><br>
 			<input type="submit">
-			
+
 		</form>
 
 	</body>
