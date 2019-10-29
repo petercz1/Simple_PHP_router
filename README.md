@@ -15,9 +15,9 @@ It translates www.yoursite.com/gohere into 'pages/gotothispage.php'
 * start with `php -S localhost:4567`
 * use a browser to navigate to `localhost:4567`
 * try the routes in lines 9 - 11 of router.php:
-	* localhost:4568
-	* localhost:4568/about
-	* localhost:4568/enrol
+	* localhost:4567
+	* localhost:4567/about
+	* localhost:4567/enrol
 
 ## structure
 
